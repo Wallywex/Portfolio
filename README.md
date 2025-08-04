@@ -30,4 +30,4 @@ How to View
 Simply open the `index.html` file in a browser. Make sure the CV file (`cv.pdf`) is saved in the same folder if you want to use the download feature.
 
 
-Let me know if you want this saved inside your project or need a version with your personal branding.
+
